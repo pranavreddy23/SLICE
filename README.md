@@ -1,0 +1,1 @@
+SLICE (Semantic Language-Instructed Constraint Enhancement), a framework that bridges this gap byenhancing traditional planners rather than replacing them.SLICE translates natural language instructions into mathematical constraints and cost functions that traditional planners can optimize.
