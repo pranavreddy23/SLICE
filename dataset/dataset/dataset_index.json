@@ -1,0 +1,475 @@
+{
+  "maps": [
+    {
+      "id": "office_0",
+      "type": "office",
+      "grid_path": "./dataset/maps/office_0.npy",
+      "regions": {
+        "small_corner_top_left": "./dataset/maps/office_0_small_corner_top_left.npy",
+        "small_corridor_top_center": "./dataset/maps/office_0_small_corridor_top_center.npy",
+        "medium_corridor_top_center": "./dataset/maps/office_0_medium_corridor_top_center.npy",
+        "small_corner_top_right": "./dataset/maps/office_0_small_corner_top_right.npy",
+        "small_irregular_top_left": "./dataset/maps/office_0_small_irregular_top_left.npy",
+        "small_irregular_top_center": "./dataset/maps/office_0_small_irregular_top_center.npy",
+        "medium_square_middle_left": "./dataset/maps/office_0_medium_square_middle_left.npy",
+        "small_irregular_top_right": "./dataset/maps/office_0_small_irregular_top_right.npy",
+        "small_square_top_right": "./dataset/maps/office_0_small_square_top_right.npy",
+        "medium_irregular_middle_center": "./dataset/maps/office_0_medium_irregular_middle_center.npy",
+        "small_irregular_middle_left": "./dataset/maps/office_0_small_irregular_middle_left.npy",
+        "medium_corner_bottom_right": "./dataset/maps/office_0_medium_corner_bottom_right.npy",
+        "small_corner_bottom_left": "./dataset/maps/office_0_small_corner_bottom_left.npy",
+        "small_irregular_bottom_center": "./dataset/maps/office_0_small_irregular_bottom_center.npy",
+        "small_corridor_bottom_center": "./dataset/maps/office_0_small_corridor_bottom_center.npy",
+        "small_irregular_bottom_right": "./dataset/maps/office_0_small_irregular_bottom_right.npy",
+        "small_corridor_bottom_left": "./dataset/maps/office_0_small_corridor_bottom_left.npy",
+        "segmentation": "./dataset/maps/office_0_segmentation.npy"
+      }
+    },
+    {
+      "id": "office_1",
+      "type": "office",
+      "grid_path": "./dataset/maps/office_1.npy",
+      "regions": {
+        "small_corner_top_left": "./dataset/maps/office_1_small_corner_top_left.npy",
+        "small_corridor_top_center": "./dataset/maps/office_1_small_corridor_top_center.npy",
+        "small_corner_top_right": "./dataset/maps/office_1_small_corner_top_right.npy",
+        "small_irregular_top_center": "./dataset/maps/office_1_small_irregular_top_center.npy",
+        "small_irregular_top_right": "./dataset/maps/office_1_small_irregular_top_right.npy",
+        "small_square_top_left": "./dataset/maps/office_1_small_square_top_left.npy",
+        "small_corridor_top_left": "./dataset/maps/office_1_small_corridor_top_left.npy",
+        "small_corridor_top_right": "./dataset/maps/office_1_small_corridor_top_right.npy",
+        "small_irregular_middle_right": "./dataset/maps/office_1_small_irregular_middle_right.npy",
+        "medium_corridor_middle_center": "./dataset/maps/office_1_medium_corridor_middle_center.npy",
+        "small_irregular_middle_left": "./dataset/maps/office_1_small_irregular_middle_left.npy",
+        "medium_square_middle_right": "./dataset/maps/office_1_medium_square_middle_right.npy",
+        "small_corner_bottom_left": "./dataset/maps/office_1_small_corner_bottom_left.npy",
+        "small_corridor_bottom_center": "./dataset/maps/office_1_small_corridor_bottom_center.npy",
+        "small_irregular_bottom_center": "./dataset/maps/office_1_small_irregular_bottom_center.npy",
+        "small_square_bottom_right": "./dataset/maps/office_1_small_square_bottom_right.npy",
+        "small_corner_bottom_right": "./dataset/maps/office_1_small_corner_bottom_right.npy",
+        "small_irregular_bottom_right": "./dataset/maps/office_1_small_irregular_bottom_right.npy",
+        "small_irregular_bottom_left": "./dataset/maps/office_1_small_irregular_bottom_left.npy",
+        "small_corridor_bottom_left": "./dataset/maps/office_1_small_corridor_bottom_left.npy",
+        "segmentation": "./dataset/maps/office_1_segmentation.npy"
+      }
+    },
+    {
+      "id": "warehouse_0",
+      "type": "warehouse",
+      "grid_path": "./dataset/maps/warehouse_0.npy",
+      "regions": {
+        "small_corner_top_left": "./dataset/maps/warehouse_0_small_corner_top_left.npy",
+        "small_square_top_left": "./dataset/maps/warehouse_0_small_square_top_left.npy",
+        "small_square_top_center": "./dataset/maps/warehouse_0_small_square_top_center.npy",
+        "medium_corner_top_right": "./dataset/maps/warehouse_0_medium_corner_top_right.npy",
+        "small_corridor_top_center": "./dataset/maps/warehouse_0_small_corridor_top_center.npy",
+        "small_corner_top_right": "./dataset/maps/warehouse_0_small_corner_top_right.npy",
+        "small_irregular_top_left": "./dataset/maps/warehouse_0_small_irregular_top_left.npy",
+        "small_irregular_top_right": "./dataset/maps/warehouse_0_small_irregular_top_right.npy",
+        "small_corridor_middle_left": "./dataset/maps/warehouse_0_small_corridor_middle_left.npy",
+        "medium_square_middle_center": "./dataset/maps/warehouse_0_medium_square_middle_center.npy",
+        "small_square_middle_right": "./dataset/maps/warehouse_0_small_square_middle_right.npy",
+        "medium_square_bottom_left": "./dataset/maps/warehouse_0_medium_square_bottom_left.npy",
+        "small_corridor_bottom_center": "./dataset/maps/warehouse_0_small_corridor_bottom_center.npy",
+        "small_corridor_middle_center": "./dataset/maps/warehouse_0_small_corridor_middle_center.npy",
+        "small_irregular_middle_right": "./dataset/maps/warehouse_0_small_irregular_middle_right.npy",
+        "small_irregular_bottom_right": "./dataset/maps/warehouse_0_small_irregular_bottom_right.npy",
+        "small_corner_bottom_left": "./dataset/maps/warehouse_0_small_corner_bottom_left.npy",
+        "small_corner_bottom_right": "./dataset/maps/warehouse_0_small_corner_bottom_right.npy",
+        "segmentation": "./dataset/maps/warehouse_0_segmentation.npy"
+      }
+    },
+    {
+      "id": "warehouse_1",
+      "type": "warehouse",
+      "grid_path": "./dataset/maps/warehouse_1.npy",
+      "regions": {
+        "small_corner_top_left": "./dataset/maps/warehouse_1_small_corner_top_left.npy",
+        "small_corner_top_right": "./dataset/maps/warehouse_1_small_corner_top_right.npy",
+        "small_irregular_top_left": "./dataset/maps/warehouse_1_small_irregular_top_left.npy",
+        "medium_square_top_center": "./dataset/maps/warehouse_1_medium_square_top_center.npy",
+        "small_irregular_top_center": "./dataset/maps/warehouse_1_small_irregular_top_center.npy",
+        "medium_square_top_right": "./dataset/maps/warehouse_1_medium_square_top_right.npy",
+        "small_irregular_top_right": "./dataset/maps/warehouse_1_small_irregular_top_right.npy",
+        "small_square_middle_left": "./dataset/maps/warehouse_1_small_square_middle_left.npy",
+        "small_corridor_middle_left": "./dataset/maps/warehouse_1_small_corridor_middle_left.npy",
+        "small_irregular_middle_center": "./dataset/maps/warehouse_1_small_irregular_middle_center.npy",
+        "small_irregular_middle_right": "./dataset/maps/warehouse_1_small_irregular_middle_right.npy",
+        "medium_irregular_bottom_right": "./dataset/maps/warehouse_1_medium_irregular_bottom_right.npy",
+        "medium_corridor_bottom_left": "./dataset/maps/warehouse_1_medium_corridor_bottom_left.npy",
+        "small_irregular_middle_left": "./dataset/maps/warehouse_1_small_irregular_middle_left.npy",
+        "small_irregular_bottom_center": "./dataset/maps/warehouse_1_small_irregular_bottom_center.npy",
+        "small_corner_bottom_right": "./dataset/maps/warehouse_1_small_corner_bottom_right.npy",
+        "small_corner_bottom_left": "./dataset/maps/warehouse_1_small_corner_bottom_left.npy",
+        "small_irregular_bottom_right": "./dataset/maps/warehouse_1_small_irregular_bottom_right.npy",
+        "small_square_bottom_center": "./dataset/maps/warehouse_1_small_square_bottom_center.npy",
+        "segmentation": "./dataset/maps/warehouse_1_segmentation.npy"
+      }
+    },
+    {
+      "id": "outdoor_0",
+      "type": "outdoor",
+      "grid_path": "./dataset/maps/outdoor_0.npy",
+      "regions": {
+        "small_corner_top_left": "./dataset/maps/outdoor_0_small_corner_top_left.npy",
+        "small_square_top_left": "./dataset/maps/outdoor_0_small_square_top_left.npy",
+        "small_corridor_top_center": "./dataset/maps/outdoor_0_small_corridor_top_center.npy",
+        "small_irregular_top_center": "./dataset/maps/outdoor_0_small_irregular_top_center.npy",
+        "small_corridor_top_right": "./dataset/maps/outdoor_0_small_corridor_top_right.npy",
+        "small_irregular_top_right": "./dataset/maps/outdoor_0_small_irregular_top_right.npy",
+        "medium_square_top_right": "./dataset/maps/outdoor_0_medium_square_top_right.npy",
+        "medium_irregular_middle_left": "./dataset/maps/outdoor_0_medium_irregular_middle_left.npy",
+        "small_square_middle_left": "./dataset/maps/outdoor_0_small_square_middle_left.npy",
+        "small_square_middle_center": "./dataset/maps/outdoor_0_small_square_middle_center.npy",
+        "small_corner_bottom_left": "./dataset/maps/outdoor_0_small_corner_bottom_left.npy",
+        "small_corridor_middle_right": "./dataset/maps/outdoor_0_small_corridor_middle_right.npy",
+        "small_irregular_middle_right": "./dataset/maps/outdoor_0_small_irregular_middle_right.npy",
+        "small_square_middle_right": "./dataset/maps/outdoor_0_small_square_middle_right.npy",
+        "small_irregular_middle_center": "./dataset/maps/outdoor_0_small_irregular_middle_center.npy",
+        "small_irregular_bottom_right": "./dataset/maps/outdoor_0_small_irregular_bottom_right.npy",
+        "small_square_bottom_left": "./dataset/maps/outdoor_0_small_square_bottom_left.npy",
+        "small_corner_bottom_right": "./dataset/maps/outdoor_0_small_corner_bottom_right.npy",
+        "small_irregular_bottom_left": "./dataset/maps/outdoor_0_small_irregular_bottom_left.npy",
+        "small_irregular_bottom_center": "./dataset/maps/outdoor_0_small_irregular_bottom_center.npy",
+        "segmentation": "./dataset/maps/outdoor_0_segmentation.npy"
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "id": 0,
+      "map_id": "office_0",
+      "start": [
+        15,
+        8
+      ],
+      "goal": [
+        3,
+        23
+      ],
+      "vis_path": "./dataset/visualizations/scenario_0.png",
+      "instruction": "Go from top to bottom, left of start  then down.",
+      "constraint_set": {
+        "proximity": {},
+        "avoidance": {
+          "small_irregular_top_right": 1.0
+        },
+        "preference": {
+          "small_corner_top_left": 1.0,
+          "small_corridor_top_center": 1.0,
+          "small_irregular_top_left": 1.0,
+          "medium_square_middle_left": 1.0,
+          "small_corridor_bottom_left": 1.0,
+          "small_corner_bottom_left": 1.0,
+          "small_irregular_middle_left": 1.0
+        }
+      },
+      "has_annotation": true
+    },
+    {
+      "id": 1,
+      "map_id": "office_0",
+      "start": [
+        48,
+        2
+      ],
+      "goal": [
+        7,
+        14
+      ],
+      "vis_path": "./dataset/visualizations/scenario_1.png",
+      "instruction": "No need to search down , only search top parts. then you will find. ",
+      "constraint_set": {
+        "proximity": {
+          "small_irregular_middle_left": 1.0,
+          "medium_square_middle_left": 1.0
+        },
+        "avoidance": {
+          "small_corridor_bottom_left": 1.0,
+          "small_irregular_bottom_right": 1.0,
+          "small_corridor_bottom_center": 1.0,
+          "small_irregular_bottom_center": 1.0,
+          "medium_corner_bottom_right": 1.0
+        },
+        "preference": {
+          "small_corner_top_left": 1.0,
+          "small_corridor_top_center": 1.0,
+          "medium_corridor_top_center": 1.0,
+          "small_corner_top_right": 1.0,
+          "small_irregular_top_left": 1.0,
+          "small_irregular_top_center": 1.0,
+          "small_irregular_top_right": 1.0,
+          "small_square_top_right": 1.0,
+          "medium_square_middle_left": 1.0
+        }
+      },
+      "has_annotation": true
+    },
+    {
+      "id": 2,
+      "map_id": "office_1",
+      "start": [
+        26,
+        19
+      ],
+      "goal": [
+        40,
+        27
+      ],
+      "vis_path": "./dataset/visualizations/scenario_2.png",
+      "instruction": "Search entire area. ",
+      "constraint_set": {
+        "proximity": {},
+        "avoidance": {},
+        "preference": {
+          "small_corner_top_left": 1.0,
+          "small_corridor_top_center": 1.0,
+          "medium_corridor_top_center": 1.0,
+          "small_corner_top_right": 1.0,
+          "small_irregular_top_left": 1.0,
+          "small_irregular_top_center": 1.0,
+          "small_irregular_top_right": 1.0,
+          "medium_square_middle_left": 1.0,
+          "small_square_top_right": 1.0,
+          "medium_irregular_middle_center": 1.0,
+          "small_irregular_middle_left": 1.0,
+          "medium_corner_bottom_right": 1.0,
+          "small_corner_bottom_left": 1.0,
+          "small_irregular_bottom_center": 1.0,
+          "small_corridor_bottom_center": 1.0,
+          "small_irregular_bottom_right": 1.0,
+          "small_corridor_bottom_left": 1.0
+        }
+      },
+      "has_annotation": true
+    },
+    {
+      "id": 3,
+      "map_id": "office_1",
+      "start": [
+        42,
+        6
+      ],
+      "goal": [
+        7,
+        21
+      ],
+      "vis_path": "./dataset/visualizations/scenario_3.png",
+      "instruction": "Search top areas and then come  down on left part. ",
+      "constraint_set": {
+        "proximity": {
+          "small_irregular_bottom_right": 1.0
+        },
+        "avoidance": {},
+        "preference": {
+          "small_corner_top_left": 1.0,
+          "small_corridor_top_center": 1.0,
+          "medium_corridor_top_center": 1.0,
+          "small_corner_top_right": 1.0,
+          "small_irregular_top_center": 1.0,
+          "small_irregular_top_left": 1.0,
+          "small_irregular_top_right": 1.0,
+          "small_square_top_right": 1.0,
+          "small_irregular_middle_left": 1.0,
+          "medium_irregular_middle_center": 1.0,
+          "medium_square_middle_left": 1.0
+        }
+      },
+      "has_annotation": true
+    },
+    {
+      "id": 4,
+      "map_id": "warehouse_0",
+      "start": [
+        43,
+        27
+      ],
+      "goal": [
+        9,
+        9
+      ],
+      "vis_path": "./dataset/visualizations/scenario_4.png",
+      "instruction": "Both start and goal are top left and bottom right .So search diagonally. It would be easier. ",
+      "constraint_set": {
+        "proximity": {
+          "medium_square_middle_left": 1.0,
+          "medium_irregular_middle_center": 1.0,
+          "small_irregular_middle_left": 1.0
+        },
+        "avoidance": {
+          "small_corner_top_left": 1.0,
+          "small_corner_top_right": 1.0,
+          "small_irregular_top_right": 1.0,
+          "small_square_top_right": 1.0
+        },
+        "preference": {
+          "small_corner_top_left": 1.0,
+          "medium_corridor_top_center": 1.0,
+          "small_irregular_bottom_right": 1.0
+        }
+      },
+      "has_annotation": true
+    },
+    {
+      "id": 5,
+      "map_id": "warehouse_0",
+      "start": [
+        8,
+        11
+      ],
+      "goal": [
+        28,
+        27
+      ],
+      "vis_path": "./dataset/visualizations/scenario_5.png",
+      "instruction": "Both are in the middle.So choose to search in the middle areas.",
+      "constraint_set": {
+        "proximity": {
+          "medium_irregular_middle_center": 1.0,
+          "small_irregular_bottom_center": 1.0,
+          "small_corridor_bottom_center": 1.0
+        },
+        "avoidance": {
+          "small_corner_bottom_left": 1.0,
+          "small_corner_top_left": 1.0,
+          "small_corridor_bottom_left": 1.0
+        },
+        "preference": {
+          "medium_irregular_middle_center": 1.0,
+          "small_corridor_bottom_center": 1.0,
+          "small_irregular_bottom_center": 1.0
+        }
+      },
+      "has_annotation": true
+    },
+    {
+      "id": 6,
+      "map_id": "warehouse_1",
+      "start": [
+        43,
+        6
+      ],
+      "goal": [
+        15,
+        18
+      ],
+      "vis_path": "./dataset/visualizations/scenario_6.png",
+      "instruction": "you are at top right,so you might want to search from top right to come middle in left. No need to search bottom right.",
+      "constraint_set": {
+        "proximity": {
+          "small_irregular_bottom_center": 1.0
+        },
+        "avoidance": {
+          "medium_irregular_middle_center": 1.0,
+          "medium_corridor_top_center": 1.0,
+          "small_irregular_bottom_right": 1.0,
+          "small_corner_top_left": 1.0,
+          "small_irregular_top_left": 1.0,
+          "small_corridor_bottom_left": 1.0
+        },
+        "preference": {
+          "medium_irregular_middle_center": 1.0,
+          "medium_corridor_top_center": 1.0
+        }
+      },
+      "has_annotation": true
+    },
+    {
+      "id": 7,
+      "map_id": "warehouse_1",
+      "start": [
+        8,
+        21
+      ],
+      "goal": [
+        29,
+        22
+      ],
+      "vis_path": "./dataset/visualizations/scenario_7.png",
+      "instruction": "Both start and goal are in bottom regions. So no need to check top parts. CHck middle left and middle center, right.",
+      "constraint_set": {
+        "proximity": {
+          "medium_irregular_middle_center": 1.0,
+          "small_irregular_top_center": 1.0
+        },
+        "avoidance": {
+          "small_square_top_right": 1.0,
+          "small_irregular_top_right": 1.0,
+          "small_corner_top_left": 1.0,
+          "small_corridor_bottom_left": 1.0,
+          "small_irregular_bottom_right": 1.0
+        },
+        "preference": {
+          "medium_irregular_middle_center": 1.0,
+          "medium_square_middle_left": 1.0,
+          "small_corridor_bottom_center": 1.0,
+          "small_irregular_bottom_center": 1.0
+        }
+      },
+      "has_annotation": true
+    },
+    {
+      "id": 8,
+      "map_id": "outdoor_0",
+      "start": [
+        47,
+        10
+      ],
+      "goal": [
+        1,
+        15
+      ],
+      "vis_path": "./dataset/visualizations/scenario_8.png",
+      "instruction": "Both start and goal are at left and right extremes and best way to reach is from top part.  Bottom route takes long.",
+      "constraint_set": {
+        "proximity": {},
+        "avoidance": {},
+        "preference": {
+          "small_corner_top_left": 1.0,
+          "small_corridor_top_center": 1.0,
+          "medium_corridor_top_center": 1.0,
+          "small_corner_top_right": 1.0,
+          "small_irregular_top_left": 1.0,
+          "small_irregular_top_center": 1.0,
+          "small_irregular_top_right": 1.0,
+          "small_square_top_right": 1.0,
+          "small_irregular_middle_left": 1.0
+        }
+      },
+      "has_annotation": true
+    },
+    {
+      "id": 9,
+      "map_id": "outdoor_0",
+      "start": [
+        10,
+        3
+      ],
+      "goal": [
+        28,
+        25
+      ],
+      "vis_path": "./dataset/visualizations/scenario_9.png",
+      "instruction": "Both start and goal are at top and bottom extremes and best way to reach is from left part.  Bottom route takes long.",
+      "constraint_set": {
+        "proximity": {
+          "medium_irregular_middle_center": 1.0,
+          "medium_square_middle_left": 1.0
+        },
+        "avoidance": {
+          "small_irregular_bottom_right": 1.0,
+          "small_square_top_right": 1.0,
+          "small_irregular_top_right": 1.0
+        },
+        "preference": {
+          "small_corner_top_left": 1.0,
+          "small_irregular_top_left": 1.0,
+          "small_corridor_bottom_left": 1.0,
+          "small_corner_bottom_left": 1.0,
+          "medium_square_middle_left": 1.0
+        }
+      },
+      "has_annotation": true
+    }
+  ]
+}
